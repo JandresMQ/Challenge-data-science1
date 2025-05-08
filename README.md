@@ -1,4 +1,4 @@
-# 📊 challenge_datascience1-ONE
+Challenge_datascience1-ONE
 
 ## Análisis para Challenge I - Alura LATAM / Oracle Next Education
 
